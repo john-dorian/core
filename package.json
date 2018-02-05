@@ -1,0 +1,26 @@
+{
+  "name": "jd-core",
+  "version": "1.0.0",
+  "description": "❤️ JD's beautiful heart is what makes him special",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/john-dorian/core.git"
+  },
+  "keywords": [
+    "jd",
+    "core"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/john-dorian/core/issues"
+  },
+  "homepage": "https://github.com/john-dorian/core#readme",
+  "devDependencies": {
+    "eslint": "^4.17.0"
+  }
+}
