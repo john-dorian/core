@@ -11,7 +11,6 @@ Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduc
 ## Authors
 
 * **Corentin H** - *Initial work* - [viki53](https://github.com/viki53)
-* **Helder Burato** - [helderburato](https://github.com/helderburato)
 
 ## License
 
